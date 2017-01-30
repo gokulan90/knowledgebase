@@ -22,6 +22,8 @@ Download necessary dependencies by executing the commands
 $ polymer serve
 ```
 
+Component landing page: http://localhost:8080/components/demo-component/
+
 ## Building Your Application
 
 ```
