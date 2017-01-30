@@ -1,10 +1,20 @@
 # \<demo-component\>
 
-Sample demo component illustrating Polymer
+Sample demo component illustrating Polymer component. 
+
+For what is polymer, please read https://www.polymer-project.org/1.0/docs/devguide/feature-overview
 
 ## Install the Polymer-CLI
 
 First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your application locally.
+
+Download Polymer CLI. Command: npm install -g polymer-cli
+
+## Download dependencies
+
+Download necessary dependencies by executing the commands 
+--> npm install -g bower
+--> bower install
 
 ## Viewing Your Application
 
