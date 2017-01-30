@@ -48,3 +48,5 @@ $ polymer test
 ```
 
 Your application is already set up to be tested via [web-component-tester](https://github.com/Polymer/web-component-tester). Run `polymer test` to run your application's test suite locally.
+
+NOTE: If polymer-cli or bower is not getting installed then, please add the given npmrc and bowerrc files in C:\Users\<UserName>\
