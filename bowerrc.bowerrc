@@ -1,0 +1,7 @@
+{
+  "directory": "bower_components",
+  "registry": "https://bower.herokuapp.com",
+  "shorthand-resolver": "git://github.com//.git",
+  "proxy": "http://proxy.local",
+  "https-proxy": "http://proxy.local"
+}
